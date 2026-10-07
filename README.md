@@ -70,7 +70,7 @@ The enterprise cloud support market spans **hyperscaler support programs** (AWS 
 
 ## 🔓 Open-Source GitHub Projects 🐙
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Infracost](https://github.com/infracost/infracost)** [![Stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers)  
   **Cloud cost estimates for Terraform in pull requests**, Apache-2.0 licensed. **Shift-left FinOps** — shows cost impact of infrastructure changes before deployment . **Supports AWS, Azure, GCP, and 1,000+ resources** . **The standard for preventing cloud cost regressions in CI/CD pipelines** . 💰
@@ -119,7 +119,7 @@ Contributions are welcome! Follow these steps to submit new cloud support platfo
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
